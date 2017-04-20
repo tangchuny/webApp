@@ -1,0 +1,7 @@
+<!--index.wxml-->
+<view class="container">
+		<view class="box_container">123</view>
+		<view class="footer_container">
+			<navigator url="../map/map">1233434</navigator>
+		</view>      
+</view>
