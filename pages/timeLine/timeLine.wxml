@@ -1,0 +1,138 @@
+<!--index.wxml-->
+<block>
+<view class="time-container">
+    <view class="item">S</view>
+    <view class="item">M</view>
+    <view class="item">T</view>
+    <view class="item">W</view>
+    <view class="item">T</view>
+     <view class="item">F</view>
+    <view class="item">S</view>
+</view>
+<view class="time-container time-number">
+    <view class="item"><text>16</text></view>
+    <view class="item"><text>17</text></view>
+    <view class="item"><text>18</text></view>
+    <view class="item"><text>19</text></view>
+    <view class="item"><text>20</text></view>
+     <view class="item"><text class="current">21</text></view>
+    <view class="item"><text>22</text></view>
+</view>
+</block>
+<view class="time-line-container">
+<navigator url="../detail/detail">
+<block>
+<view class="events-title-container">
+<view class="events-list-title">Mon Oct 2</view>
+</view>
+
+<view class="events-list-container">
+  <text class="tody">今天</text>
+  <view class="events-list-left">2:00  PM</view>
+  <view class="events-list-right">
+    <view class="events-tit">2017年中欧新生入学</view>
+    <view class="events-add">浦东新区 红枫路699号</view>
+    <view class="events-member">
+      <view class="img" style="z-index:99;"><image src="../../images/icon1.png"></image></view>
+      <view class="img" style="z-index:99;"><image src="../../images/icon1.png"></image></view>
+      <view class="img" style="z-index:99;"><image src="../../images/icon1.png"></image></view>
+      <view class="img" style="z-index:99;"><image src="../../images/icon1.png"></image></view>
+      <view class="img" style="z-index:98;"><image src="../../images/icon2.png"></image></view>
+      <view class="img" style="z-index:97;"><image src="../../images/icon1.png"></image></view>
+       <text class="events-member-num">188人关注</text>
+    </view>
+   
+  </view>
+</view>
+</block>
+</navigator>
+<block>
+<view class="events-title-container">
+<view class="events-list-title">Mon Oct 2</view>
+</view>
+<view class="events-list-container">
+
+  <view class="events-list-left">2:00  PM</view>
+  <view class="events-list-right">
+    <view class="events-tit">2017年中欧新生入学</view>
+    <view class="events-add">浦东新区 红枫路699号</view>
+    <view class="events-member">
+      <view class="img" style="z-index:99;"><image src="../../images/icon1.png"></image></view>
+      <view class="img" style="z-index:98;"><image src="../../images/icon2.png"></image></view>
+      <view class="img" style="z-index:97;"><image src="../../images/icon1.png"></image></view>
+       <text class="events-member-num">188人关注</text>
+    </view>
+   
+  </view>
+</view>
+</block>
+<block>
+<view class="events-title-container">
+<view class="events-list-title">Mon Oct 2</view>
+</view>
+<view class="events-list-container">
+
+  <view class="events-list-left">2:00  PM</view>
+  <view class="events-list-right">
+    <view class="events-tit">2017年中欧新生入学</view>
+    <view class="events-add">浦东新区 红枫路699号</view>
+    <view class="events-member">
+      <view class="img" style="z-index:99;"><image src="../../images/icon1.png"></image></view>
+      <view class="img" style="z-index:98;"><image src="../../images/icon2.png"></image></view>
+      <view class="img" style="z-index:97;"><image src="../../images/icon1.png"></image></view>
+       <text class="events-member-num">188人关注</text>
+    </view>
+   
+  </view>
+</view>
+</block>
+<block>
+<view class="events-title-container">
+<view class="events-list-title">Mon Oct 2</view>
+</view>
+<view class="events-list-container">
+
+  <view class="events-list-left">2:00  PM</view>
+  <view class="events-list-right">
+    <view class="events-tit">2017年中欧新生入学</view>
+    <view class="events-add">浦东新区 红枫路699号</view>
+    <view class="events-member">
+      <view class="img" style="z-index:99;"><image src="../../images/icon1.png"></image></view>
+      <view class="img" style="z-index:98;"><image src="../../images/icon2.png"></image></view>
+      <view class="img" style="z-index:97;"><image src="../../images/icon1.png"></image></view>
+       <text class="events-member-num">188人关注</text>
+    </view>
+   
+  </view>
+</view>
+</block>
+<block>
+<view class="events-title-container">
+<view class="events-list-title">Mon Oct 2</view>
+</view>
+<view class="events-list-container">
+
+  <view class="events-list-left">2:00  PM</view>
+  <view class="events-list-right">
+    <view class="events-tit">2017年中欧新生入学</view>
+    <view class="events-add">浦东新区 红枫路699号</view>
+    <view class="events-member">
+      <view class="img" style="z-index:99;"><image src="../../images/icon1.png"></image></view>
+      <view class="img" style="z-index:98;"><image src="../../images/icon2.png"></image></view>
+      <view class="img" style="z-index:97;"><image src="../../images/icon1.png"></image></view>
+       <text class="events-member-num">188人关注</text>
+    </view>
+   
+  </view>
+</view>
+</block>
+</view>
+<!--底部导航-->
+
+<view class="footer_container">
+        <view class="foot-item foot1">
+          <image src="../../images/f1.png"></image>
+        </view>
+        <view class="foot-item foot2"><image src="../../images/f2.png"></image></view>
+        <view class="foot-item foot3"><image src="../../images/f3.png"></image></view>
+    </view>
